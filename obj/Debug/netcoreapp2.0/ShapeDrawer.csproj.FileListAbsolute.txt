@@ -1,0 +1,12 @@
+D:\OOP\ShapeDrawer\bin\Debug\netcoreapp2.0\ShapeDrawer.deps.json
+D:\OOP\ShapeDrawer\bin\Debug\netcoreapp2.0\ShapeDrawer.runtimeconfig.json
+D:\OOP\ShapeDrawer\bin\Debug\netcoreapp2.0\ShapeDrawer.runtimeconfig.dev.json
+D:\OOP\ShapeDrawer\bin\Debug\netcoreapp2.0\ShapeDrawer.dll
+D:\OOP\ShapeDrawer\bin\Debug\netcoreapp2.0\ShapeDrawer.pdb
+D:\OOP\ShapeDrawer\obj\Debug\netcoreapp2.0\ShapeDrawer.csprojAssemblyReference.cache
+D:\OOP\ShapeDrawer\obj\Debug\netcoreapp2.0\ShapeDrawer.AssemblyInfoInputs.cache
+D:\OOP\ShapeDrawer\obj\Debug\netcoreapp2.0\ShapeDrawer.AssemblyInfo.cs
+D:\OOP\ShapeDrawer\obj\Debug\netcoreapp2.0\ShapeDrawer.csproj.CoreCompileInputs.cache
+D:\OOP\ShapeDrawer\obj\Debug\netcoreapp2.0\ShapeDrawer.dll
+D:\OOP\ShapeDrawer\obj\Debug\netcoreapp2.0\ShapeDrawer.pdb
+D:\OOP\ShapeDrawer\obj\Debug\netcoreapp2.0\ShapeDrawer.genruntimeconfig.cache
